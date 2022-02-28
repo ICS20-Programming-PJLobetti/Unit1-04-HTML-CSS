@@ -5,15 +5,16 @@
 */
 
 body {
-  background-color: burlywood;
+  background-color: lightsteelblue;
 }
 
 h1 {
-  background-color: rgb(255, 228, 196);
-  color: hsl(32.5°, 100, 88.4);
+  background-color: rgb(175,	238,	238);
+  color: hsl(0.50,	0.65,	0.81);
   padding: 40px;
   text-align: center;
 }
+
 p {
   background-color: #E6E6FA;
 }
